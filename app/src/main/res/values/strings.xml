@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DroidCafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">Droid Dessert</string>
+    <string name="choose_a_dessert">Choose a dessert</string>
+    <string name="donuts">Donut are glazed and sprinkled with candy</string>
+    <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate and vanilla filling.</string>
+</resources>
